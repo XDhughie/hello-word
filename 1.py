@@ -18,7 +18,9 @@ print('edit in master and dev')
 
 print('edit in dev')
 
-print('edit in dev again')
+
+print('edit in dev and master again')
+
 
 # feel happy
 
