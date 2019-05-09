@@ -11,3 +11,5 @@ d = 5
 e = 6
 
 print(np.random.rand(1))
+
+print("I love you!")
